@@ -1,4 +1,4 @@
-logstash-installation
+Logstash Installation
 =====================
 
-Logstash Setup
+A simple logstash setup
